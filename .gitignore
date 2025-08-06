@@ -1,0 +1,38 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+
+# Virtual environments
+venv/
+env/
+.venv/
+.env/
+
+# Environment variables
+.env
+
+# VS Code settings
+.vscode/
+
+
+# Vector databases and local data
+chroma_db/
+*.db
+*.sqlite
+*.sqlite3
+
+
+.ipynb_checkpoints/
+
+# Build artifacts
+build/
+dist/
+*.egg-info/
+
+# Logs
+*.log
+
+# macOS system files
+.DS_Store
