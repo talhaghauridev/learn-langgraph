@@ -2,22 +2,31 @@
 
 A comprehensive project exploring various components and capabilities of LangGraph framework.
 
-## Tech Stack
+## Technologies Used
 
 - LangGraph
 - LangChain
 - Google Generative AI
 - Jupyter Notebooks
 
-## Getting Started
 
-1. Clone the Repository
+### 1. Clone the Repository
+
 ```bash
 git clone https://github.com/talhaghauridev/learn-langgraph.git
 cd learn-langgraph
 ```
 
-2. Install Dependencies
+### 2. Install Dependencies
+
 ```bash
 pip install -r requirements.txt
+```
+
+### 3. Environment Setup
+
+Create a `.env` file in the root directory:
+
+```bash
+cp .env.example .env
 ```
